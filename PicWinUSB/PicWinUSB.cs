@@ -65,8 +65,8 @@ namespace PicWinUSB
 
             if (rdBuffer[0] > 0) //Si se recibe un valor mayor a 0
             {
-                AdcBar.Value = (int)(rdBuffer[0] * 100 / 254); //Dibujar en la barra
-                OsciloscText.Text = ((int)(rdBuffer[0] * 100 / 254)) + "u";
+                AdcBar.Value = (int)(rdBuffer[0] * 200 / 254); //Dibujar en la barra
+                OsciloscText.Text = ((int)(rdBuffer[0] * 300 / 254)) + "u";
                 if (x > 400)
                 {
                     x = 0;

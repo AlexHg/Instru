@@ -35,3 +35,13 @@ C:\Users\alexx\Desktop\Instru\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\PicWinUSB.cs
 C:\Users\alexx\Desktop\Instru\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).exe
 C:\Users\alexx\Desktop\Instru\PicWinUSB_App_SRC\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).pdb
 C:\Users\alexx\Desktop\Instru\PicWinUSB_App_SRC\PicWinUSB\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).exe.config
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).exe
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\bin\Debug\ESCOM-IPN (PIC-WinUSB).pdb
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\obj\Debug\PicWinUSB.csprojResolveAssemblyReference.cache
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\obj\Debug\PicWinUSB.PicWinUSB.resources
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\obj\Debug\PicWinUSB.Properties.Resources.resources
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\obj\Debug\PicWinUSB.csproj.GenerateResource.Cache
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).exe
+C:\Users\alexx\Desktop\Instru\Instru\PicWinUSB\obj\Debug\ESCOM-IPN (PIC-WinUSB).pdb
